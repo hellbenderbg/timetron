@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
 <product>
-<id>1704</id>
-<product_code>2617032</product_code>
-<barcode></barcode>
-<title>ТИГАН 24СМ REIN ECLIPSE</title>
-<short_description></short_description>
-<description></description>
-<category></category>
-<sub_category></sub_category>
-<sub_sub_category></sub_sub_category>
-<tabs></tabs>
-<manufacturer></manufacturer>
-<price></price>
-<original_price>1.00</original_price>
-<weight>1.09</weight>
-<sku>2617032</sku>
-<quantity>100</quantity>
-<images>
-<image></image>
-</images>
-<meta_title></meta_title>
-<meta_description></meta_description>
-</product>
+    <id>1704</id>
+    <product_code>2617032</product_code>
+    <barcode></barcode>
+    <title>ТИГАН 24СМ REIN ECLIPSE</title>
+    <short_description></short_description>
+    <description></description>
+    <category>ЗА ДОМА</category>
+    <sub_category>ДОМАКИНСКИ СЪДОВЕ</sub_category>
+    <sub_sub_category>ТЕНДЖЕРИ</sub_sub_category>
+    <tabs></tabs>
+    <manufacturer>REIN</manufacturer>
+    <price>1</price>
+    <original_price>1</original_price>
+    <weight>1.09</weight>
+    <sku>2617032</sku>
+    <quantity>0</quantity>
+    <images>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+  </product>
 </products>

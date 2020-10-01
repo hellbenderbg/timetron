@@ -30,7 +30,7 @@
 <meta_description>Диаметър - 16см Вместимост - 2.0 л Неръждаема стомана - #304 (медицинска ) 18/10 Стъклен капак Отвор за пара Скала Трислойно дъно Възможност за измиване в съдомиялни машини Ползване в/у всичко видове котлони</meta_description>
 </product>
 <product>
-<id>1704</id>
+<id></id>
 <product_code>2617032</product_code>
 <barcode></barcode>
 <title></title>
@@ -49,6 +49,7 @@
 <images>
 <image></image>
 </images>
-<meta_title></meta_title></meta_description>
+<meta_title></meta_title>
+<meta_description></meta_description>
 </product>
 </products>

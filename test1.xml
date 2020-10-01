@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
 <product>
-<id></id>
+<id>1704</id>
 <product_code>2617032</product_code>
 <barcode></barcode>
-<title></title>
+<title>ТИГАН 24СМ REIN ECLIPSE</title>
 <short_description></short_description>
 <description></description>
 <category></category>
@@ -13,9 +13,9 @@
 <tabs></tabs>
 <manufacturer></manufacturer>
 <price></price>
-<original_price>1</original_price>
+<original_price>1.00</original_price>
 <weight>1.09</weight>
-<sku></sku>
+<sku>2617032</sku>
 <quantity>100</quantity>
 <images>
 <image></image>

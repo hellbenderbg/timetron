@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<product>
-<id>1697</id>
-<product_code>2603004</product_code>
-<barcode></barcode>
-<title>ТЕНДЖЕРА/ СОСИЕРА 16Х10СМ REIN LUNARIA</title>
-<short_description></short_description>
-<description>&lt;ul&gt;&amp;#10;&lt;li&gt;Диаметър - 16см&lt;/li&gt;&amp;#10;&lt;li&gt;Вместимост - 2.0 л&lt;/li&gt;&amp;#10;&lt;li&gt;Неръждаема стомана - #304 (медицинска ) 18/10&lt;/li&gt;&amp;#10;&lt;li&gt;Стъклен капак&lt;/li&gt;&amp;#10;&lt;li&gt;Отвор за пара&lt;/li&gt;&amp;#10;&lt;li&gt;Скала&lt;/li&gt;&amp;#10;&lt;li&gt;Трислойно дъно&lt;/li&gt;&amp;#10;&lt;li&gt;Възможност за измиване в съдомиялни машини&lt;/li&gt;&amp;#10;&lt;li&gt;Ползване в/у всичко видове котлони&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
-<category>ЗА ДОМА</category>
-<sub_category>ДОМАКИНСКИ СЪДОВЕ</sub_category>
-<sub_sub_category>ТЕНДЖЕРИ</sub_sub_category>
-<tabs/>
-<manufacturer>REIN</manufacturer>
-<price>30.00</price>
-<original_price>30.00</original_price>
-<weight>1.26</weight>
-<sku>2603004</sku>
-<quantity>199</quantity>
-<images>
-<image>https://cdncloudcart.com/16281/products/images/1697/tendzera-sosiera-16h10sm-rein-lunaria-image_5f15809f5ac81_1920x1920.jpeg?1595244724</image>
-</images>
-<meta_title>ТЕНДЖЕРА/ СОСИЕРА 16Х10СМ REIN LUNARIA</meta_title>
-<meta_description>Диаметър - 16см Вместимост - 2.0 л Неръждаема стомана - #304 (медицинска ) 18/10 Стъклен капак Отвор за пара Скала Трислойно дъно Възможност за измиване в съдомиялни машини Ползване в/у всичко видове котлони</meta_description>
-</product>
+<products>
+	<product>
+    <id></id>
+    <product_code>2617032</product_code>
+    <barcode></barcode>
+    <title></title>
+    <short_description></short_description>
+    <description></description>
+    <category></category>
+    <sub_category></sub_category>
+    <sub_sub_category></sub_sub_category>
+    <tabs></tabs>
+    <manufacturer></manufacturer>
+    <price></price>
+    <original_price>1</original_price>
+    <weight>1.09</weight>
+    <sku></sku>
+    <quantity>100</quantity>
+    <images>
+      <image></image>
+    </images>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+  </product>
+</products>
